@@ -3,3 +3,4 @@
 *.xlsx
 *.html
 *__pychache__*
+.venv
